@@ -8,7 +8,13 @@ Mike-SHE; https://www.mikepoweredbydhi.com/products/mike-she
 possibly seeing annual variability in hydrologic properties, can have dominant role at some sub-catchments; constant ET at different catchments.
 
 # Ali Ameli
-Hydrologic conductivity at Krycklan; analytical 2/3-D models for ground water flow and advection. Wow!
+Hydrologic conductivity at Krycklan; analytical 2/3-D models for ground water flow and transport.
+
+# Niles
+Lidar --> canopy structure
+
+# Ville
+take a look on the DOC model; general or not?
 
 # Data
 distrbuted semi-continuous GWL's
